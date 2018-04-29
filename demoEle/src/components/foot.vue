@@ -27,7 +27,7 @@ ul li{
 a{
 	text-decoration: none;
 	color: #333;
-	font-size: 18px;
+	font-size: 28px;
 }
 .list{
 	display: flex;
